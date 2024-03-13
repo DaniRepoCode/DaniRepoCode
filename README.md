@@ -10,6 +10,7 @@ I am mainly interested in Machine Learning and Deep Learning, but I like learnin
 ![Pandas](https://img.shields.io/badge/-pandas-darkgreen?style=for-the-badge&logo=pandas)
 ![PyTest](https://img.shields.io/badge/-pytest-darkblue?style=for-the-badge&logo=pytest)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Dagster](https://img.shields.io/badge/Dagster->%3D1.6-purple)
 
