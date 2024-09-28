@@ -2,7 +2,7 @@
 
 I am a Python Developer and Telecommunication Systems Engineer and during my free time I like to carry out small projects and personal goals through the development of new tools.
 
-I am mainly interested in Machine Learning and Deep Learning, but I like learning about many other fields in computer science such as cryptography, software engineering and cybersecurity. I currently use Python as my main programming language. Here i'll write down my main insterests:
+I am mainly interested in API Rest developing and automate all kind tasks, but I like learning about many other fields such as cryptography, software engineering and cybersecurity. I currently use Python as my main programming language. Here i'll write down my main insterests:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![numpy](https://img.shields.io/badge/-numpy-blue?style=for-the-badge&logo=numpy)
